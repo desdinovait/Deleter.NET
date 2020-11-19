@@ -1,0 +1,10 @@
+D:\VBProjects\Deleter.NET\Deleter.NET\obj\Release\Deleter.NET.exe
+D:\VBProjects\Deleter.NET\Deleter.NET\obj\Release\Deleter.NET.pdb
+D:\VBProjects\Deleter.NET\Deleter.NET\bin\Release\Deleter.NET.exe
+D:\VBProjects\Deleter.NET\Deleter.NET\bin\Release\Deleter.NET.pdb
+D:\VBProjects\Deleter.NET\Deleter.NET\obj\Release\ResolveAssemblyReference.cache
+D:\VBProjects\Deleter.NET\Deleter.NET\obj\Release\Deleter.NET.Form1.resources
+D:\VBProjects\Deleter.NET\Deleter.NET\obj\Release\Deleter.NET.FormAbout.resources
+D:\VBProjects\Deleter.NET\Deleter.NET\obj\Release\Deleter.NET.FormDelete.resources
+D:\VBProjects\Deleter.NET\Deleter.NET\obj\Release\Deleter.NET.Properties.Resources.resources
+D:\VBProjects\Deleter.NET\Deleter.NET\obj\Release\Deleter.NET.csproj.GenerateResource.Cache
